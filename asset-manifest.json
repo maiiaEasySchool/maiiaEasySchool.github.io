@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EasySchool/static/css/main.d1b05096.chunk.css",
+    "main.js": "/EasySchool/static/js/main.6fe85043.chunk.js",
+    "main.js.map": "/EasySchool/static/js/main.6fe85043.chunk.js.map",
+    "runtime-main.js": "/EasySchool/static/js/runtime-main.f04c2b17.js",
+    "runtime-main.js.map": "/EasySchool/static/js/runtime-main.f04c2b17.js.map",
+    "static/js/2.eb8d6734.chunk.js": "/EasySchool/static/js/2.eb8d6734.chunk.js",
+    "static/js/2.eb8d6734.chunk.js.map": "/EasySchool/static/js/2.eb8d6734.chunk.js.map",
+    "index.html": "/EasySchool/index.html",
+    "precache-manifest.65e02679e07e9a48476695aec108a5f2.js": "/EasySchool/precache-manifest.65e02679e07e9a48476695aec108a5f2.js",
+    "service-worker.js": "/EasySchool/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/EasySchool/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eb8d6734.chunk.js.LICENSE.txt": "/EasySchool/static/js/2.eb8d6734.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/EasySchool/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04c2b17.js",
+    "static/js/2.eb8d6734.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6fe85043.chunk.js"
+  ]
+}
